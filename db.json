@@ -1,7 +1,7 @@
 
     { 
         "layoutInfo": 
-        [
+        
           { 
          "Layout_Variable_DeletedInd": "N",
           "Parent_Ind": "N",
@@ -16,20 +16,20 @@
           "Slot_Id": "AB",
           "Overlay_Ind": "N",
           "Displacement_no": 19
-          }
-         ],
+          },
+        
           "pkgeInfo": 
-        [
+        
           { 
          "Checked_from_Package_Id": "0",
           "Parent_Package_Id": "12345",
           "Package_Id": "12345"
           }
-        ]
+        
     },
     {
         "layoutInfo": 
-        [
+        
           { 
          "Layout_Variable_DeletedInd": "N",
           "Parent_Ind": "N",
@@ -44,15 +44,15 @@
           "Slot_Id": "AB",
           "Overlay_Ind": "N",
           "Displacement_no": 19
-          }
-         ],
+          },
+         
           "pkgeInfo": 
-        [
+        
           { 
          "Checked_from_Package_Id": "0",
           "Parent_Package_Id": "12345",
           "Package_Id": "12345"
           }
-        ]
+        
     } 
         
