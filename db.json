@@ -21,6 +21,28 @@
          "Checked_from_Package_Id": "0",
           "Parent_Package_Id": "12345",
           "Package_Id": "12345"
+          },
+        "layoutInfo": 
+          { 
+         "Layout_Variable_DeletedInd": "N",
+          "Parent_Ind": "N",
+          "Key_Position_Number": 9,
+          "Record_Type_cd": "W",
+          "Layout_Description": "      ",
+          "Field_Positio_num": 9,
+          "Max_Repititions": 1,
+          "Min_Repititions": 0,
+          "Repititions_no": 1,
+          "Layout_Name": "llrmgm",
+          "Slot_Id": "AB",
+          "Overlay_Ind": "N",
+          "Displacement_no": 19
+          },
+          "pkgeInfo": 
+          { 
+         "Checked_from_Package_Id": "0",
+          "Parent_Package_Id": "12345",
+          "Package_Id": "12345"
           }
     }
         
