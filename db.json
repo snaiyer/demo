@@ -1,5 +1,5 @@
 
-    [ 
+    [ {
         "layoutInfo": 
         
           { 
@@ -25,7 +25,8 @@
           "Parent_Package_Id": "12345",
           "Package_Id": "12345"
           },  
-    
+    },
+     {
     
         "layoutInfo": 
         
@@ -52,6 +53,6 @@
           "Parent_Package_Id": "12345",
           "Package_Id": "12345"
           }
-        
+     } 
     ]
         
