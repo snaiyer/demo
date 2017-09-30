@@ -1,5 +1,5 @@
 
-    {
+    { [
         "layoutInfo": 
           { 
          "Layout_Variable_DeletedInd": "N",
@@ -46,5 +46,5 @@
           "Parent_Package_Id": "12345",
           "Package_Id": "12345"
           }
-    } 
+   ] } 
         
